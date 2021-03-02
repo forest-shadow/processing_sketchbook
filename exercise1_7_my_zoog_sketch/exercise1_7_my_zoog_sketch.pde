@@ -1,8 +1,8 @@
 size(260, 180);
 background(255);
+smooth(); // enable anti-aliasing
 
 ellipseMode(CENTER);
-//rectMode(CENTER);
 
 // body
 stroke(0);
