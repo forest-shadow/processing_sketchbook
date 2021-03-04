@@ -1,11 +1,13 @@
-size(80,50);
-noStroke();
+size(250,250);
 
-fill(255, 0, 0); // bright red
-ellipse(20, 20, 16, 16);
+fill(0);
+rect(0,0,70,70);
 
-fill(127, 0, 0); // dark red
-ellipse(40, 20, 16, 16);
+fill(255);
+rect(70,0,70,70);
 
-fill(255, 200, 200);
-ellipse(60, 20, 16, 16);
+fill(255);
+rect(0,70,70,70);
+
+fill(155);
+rect(70,70,70,70);
