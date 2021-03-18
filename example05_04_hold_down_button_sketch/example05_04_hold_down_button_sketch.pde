@@ -1,4 +1,4 @@
-boolean buttonPressed = false;
+boolean buttonHolded = false;
 
 int x = 50;
 int y = 50;
@@ -11,12 +11,12 @@ void setup() {
 
 void draw() {
   if (mouseX > x && mouseX < x+w && mouseY > y && mouseY < y+h && mousePressed) {
-    buttonPressed = true;
+    buttonHolded = true;
   } else {
-    buttonPressed = false;
+    buttonHolded = false;
   }
 
-  if (buttonPressed) {
+  if (buttonHolded) {
     background(255);
     stroke(0);
   } else {
