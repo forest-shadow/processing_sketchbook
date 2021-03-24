@@ -9,5 +9,7 @@
 * [Exercise 01-07: My Zoog sketch](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter01-pixels/exercise01_07_my_zoog_sketch/exercise01_07_my_zoog_sketch.pde) — creating own creature from simle shapes
 
 ## Chapter 05: Conditionals
+### Examples:
+* Example 05-07: "Bouncing colors" — example of gradually changing rectangle's fill color
 ### Exercises:
 * Exercise 05-09: Bouncing ball advanced — extended bouncing ball example. Added variable color fill & radius behavior.
