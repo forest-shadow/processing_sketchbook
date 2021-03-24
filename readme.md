@@ -7,3 +7,7 @@
 * [Exercise 01-03: Rectangles w RGBA fill](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter01-pixels/exercise01_03_rects_with_fills_sketch/exercise01_03_rects_with_fills_sketch.pde)
 * [Exercise 01-05: Ellipses w RGBA fill](https://github.com/forest-shadow/processing_sketchbook/tree/main/chapter01-pixels/exercise01_05_rgb_colors_part2_sketch) — experementing with color blending
 * [Exercise 01-07: My Zoog sketch](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter01-pixels/exercise01_07_my_zoog_sketch/exercise01_07_my_zoog_sketch.pde) — creating own creature from simle shapes
+
+## Chapter 05: Conditionals
+### Exercises:
+* Exercise 05-09: Bouncing ball advanced — extended bouncing ball example. Added variable color fill & radius behavior.
