@@ -17,5 +17,6 @@
 ### Examples:
 * Example 05-07: "Bouncing colors" — example of gradually changing rectangle's fill color.
 * Example 05-08: Square travelling/following edges of canvas — example of using `state` for element's appearance and switching between different states.
+* Example 05-09: Simple gravity example — falling square with simple gravity demo. Dampening is not simulated realistically: at the end, square will be slightly bouncing forever.  
 ### Exercises:
 * Exercise 05-09: Bouncing ball advanced — extended bouncing ball example. Added variable color fill & radius behavior.
