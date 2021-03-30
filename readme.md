@@ -43,7 +43,8 @@
 ### Examples:
 * [Example 05-07: "Bouncing colors"]() — example of gradually changing rectangle's fill color.
 * [Example 05-08: Square travelling/following edges of canvas]() — example of using `state` for element's appearance and switching between different states.
-* [Example 05-09: Simple gravity example]() — falling square with simple gravity demo. Dampening is not simulated realistically: at the end, square will be slightly bouncing forever.  
+* [Example 05-09: Simple gravity example]() — falling square with simple gravity demo. Dampening is not simulated realistically: at the end, square will be slightly bouncing forever.
+* [Example 05-10: Zoog and conditionals]() — Zoog conditionally changes moving directions when meeting screen edges. 
 ### Exercises:
 * [Exercise 05-09: Bouncing ball advanced]() — extended bouncing ball example. Added variable color fill & radius behavior.
 * [Exercise 05-10: Bouncing square travelling across edges]() — extended square travelling example. Square is bouncing on top screen edge. TODO: complete task — rectangle should bouncing on all edges.
