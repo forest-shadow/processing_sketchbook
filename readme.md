@@ -46,3 +46,4 @@
 * [Example 05-09: Simple gravity example]() — falling square with simple gravity demo. Dampening is not simulated realistically: at the end, square will be slightly bouncing forever.  
 ### Exercises:
 * [Exercise 05-09: Bouncing ball advanced]() — extended bouncing ball example. Added variable color fill & radius behavior.
+* [Exercise 05-10: Bouncing square travelling across edges]() — extended square travelling example. Square is bouncing on top screen edge. TODO: complete task — rectangle should bouncing on all edges.
