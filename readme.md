@@ -41,10 +41,20 @@
 
 ## Chapter 05: Conditionals
 ### Examples:
+* [Example 05-01: Conditional color changing based on current mouse position]() — conditional changing screen background color based on current mouse position (left or right screen half).
+* [Example 05-02: Conditional color changing based on current quarter mouse position]() — conditional changing screen background color based on current mouse position (one of 4 screen quarter).
+* [Example 05-03: Multiple rollovers]() — fill currently hovered screen quarter with black.
+* [Example 05-04: Hold down button]()
+* [Example 05-05: Button as switch]()
+* [Example 05-06: Bouncing ball]() — bouncing ball from left to right and backwards.
 * [Example 05-07: "Bouncing colors"]() — example of gradually changing rectangle's fill color.
 * [Example 05-08: Square travelling/following edges of canvas]() — example of using `state` for element's appearance and switching between different states.
 * [Example 05-09: Simple gravity example]() — falling square with simple gravity demo. Dampening is not simulated realistically: at the end, square will be slightly bouncing forever.
 * [Example 05-10: Zoog and conditionals]() — Zoog conditionally changes moving directions when meeting screen edges. 
 ### Exercises:
+* [Exercise 05-03: Moving rectangle with constrains]() — Rectangle moving from left side to the center of screen and stops there.
+* [Exercise 05-05: Simple rollover]() — changing rectangle's fill color on hover.
+* [Exercise 05-06: Fading rollover squares]() — currently hovered (of 4 quarters) rollover fade to white while others, already visited ones, fade to black.
+* [Exercise 05-08: Move circle on mouse button pressed]() — circle moving from left to right edge when mouse button is pressed.
 * [Exercise 05-09: Bouncing ball advanced]() — extended bouncing ball example. Added variable color fill & radius behavior.
 * [Exercise 05-10: Bouncing square travelling across edges]() — extended square travelling example. Square is bouncing on top screen edge. TODO: complete task — rectangle should bouncing on all edges.
