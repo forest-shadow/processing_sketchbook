@@ -39,22 +39,22 @@
 * [Exercise 04-05: Responsive imaginary country flag](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter04-variables/exercise04_05_variable_screen_size_flag_sketch/exercise04_05_variable_screen_size_flag_sketch.pde) — imaginary country flag always drawing responsively to current sketch screen size.
 * [Exercise 04-07: My Zoog flying along](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter04-variables/exercise04_07_my_zoog_flying_along_sketch/exercise04_07_my_zoog_flying_along_sketch.pde) — my Zoog flying to the left with random `y` axis position. Utilizing `Point` class.
 
-## Chapter 05: Conditionals
+## [Chapter 05: Conditionals](https://github.com/forest-shadow/processing_sketchbook/tree/main/chapter05-conditionals)
 ### Examples:
-* [Example 05-01: Conditional color changing based on current mouse position]() — conditional changing screen background color based on current mouse position (left or right screen half).
-* [Example 05-02: Conditional color changing based on current quarter mouse position]() — conditional changing screen background color based on current mouse position (one of 4 screen quarter).
-* [Example 05-03: Multiple rollovers]() — fill currently hovered screen quarter with black.
-* [Example 05-04: Hold down button]()
-* [Example 05-05: Button as switch]()
-* [Example 05-06: Bouncing ball]() — bouncing ball from left to right and backwards.
-* [Example 05-07: "Bouncing colors"]() — example of gradually changing rectangle's fill color.
-* [Example 05-08: Square travelling/following edges of canvas]() — example of using `state` for element's appearance and switching between different states.
-* [Example 05-09: Simple gravity example]() — falling square with simple gravity demo. Dampening is not simulated realistically: at the end, square will be slightly bouncing forever.
-* [Example 05-10: Zoog and conditionals]() — Zoog conditionally changes moving directions when meeting screen edges. 
+* [Example 05-01: Conditional color changing based on current mouse position](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_01_conditionals_in_screen_areas_sketch/example05_01_conditionals_in_screen_areas_sketch.pde) — conditional changing screen background color based on current mouse position (left or right screen half).
+* [Example 05-02: Conditional color changing based on current quarter mouse position](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_02_more_conditionals_in_screen_areas_sketch/example05_02_more_conditionals_in_screen_areas_sketch.pde) — conditional changing screen background color based on current mouse position (one of 4 screen quarter).
+* [Example 05-03: Multiple rollovers](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_03_multiple_rollovers_sketch/example05_03_multiple_rollovers_sketch.pde) — fill currently hovered screen quarter with black.
+* [Example 05-04: Hold down button](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_04_hold_down_button_sketch/example05_04_hold_down_button_sketch.pde)
+* [Example 05-05: Button as switch](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_05_button_as_switch_sketch/example05_05_button_as_switch_sketch.pde)
+* [Example 05-06: Bouncing ball](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_06_bouncing_ball_sketch/example05_06_bouncing_ball_sketch.pde) — bouncing ball from left to right and backwards.
+* [Example 05-07: "Bouncing colors"](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_07_bouncing_color_sketch/example05_07_bouncing_color_sketch.pde) — example of gradually changing rectangle's fill color.
+* [Example 05-08: Square travelling/following edges of canvas](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_08_edges_travelling_square_sketch/example05_08_edges_travelling_square_sketch.pde) — example of using `state` for element's appearance and switching between different states.
+* [Example 05-09: Simple gravity example](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_09_simple_gravity_demo_sketch/example05_09_simple_gravity_demo_sketch.pde) — falling square with simple gravity demo. Dampening is not simulated realistically: at the end, square will be slightly bouncing forever.
+* [Example 05-10: Zoog and conditionals](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/example05_10_zoog_and_conditionals_sketch/example05_10_zoog_and_conditionals_sketch.pde) — Zoog conditionally changes moving directions when meeting screen edges. 
 ### Exercises:
-* [Exercise 05-03: Moving rectangle with constrains]() — Rectangle moving from left side to the center of screen and stops there.
-* [Exercise 05-05: Simple rollover]() — changing rectangle's fill color on hover.
-* [Exercise 05-06: Fading rollover squares]() — currently hovered (of 4 quarters) rollover fade to white while others, already visited ones, fade to black.
-* [Exercise 05-08: Move circle on mouse button pressed]() — circle moving from left to right edge when mouse button is pressed.
-* [Exercise 05-09: Bouncing ball advanced]() — extended bouncing ball example. Added variable color fill & radius behavior.
-* [Exercise 05-10: Bouncing square travelling across edges]() — extended square travelling example. Square is bouncing on top screen edge. TODO: complete task — rectangle should bouncing on all edges.
+* [Exercise 05-03: Moving rectangle with constrains](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_03_moving_rect_with_constrains_sketch/exercise05_03_moving_rect_with_constrains_sketch.pde) — Rectangle moving from left side to the center of screen and stops there.
+* [Exercise 05-05: Simple rollover](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_05_simple_rollover_sketch/exercise05_05_simple_rollover_sketch.pde) — changing rectangle's fill color on hover.
+* [Exercise 05-06: Fading rollover squares](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_06_fading_rollover_squares_sketch/exercise05_06_fading_rollover_squares_sketch.pde) — currently hovered (of 4 quarters) rollover fade to white while others, already visited ones, fade to black.
+* [Exercise 05-08: Move circle on mouse button pressed](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_08_move_circle_on_mouse_button_pressed_sketch/exercise05_08_move_circle_on_mouse_button_pressed_sketch.pde) — circle moving from left to right edge when mouse button is pressed.
+* [Exercise 05-09: Bouncing ball advanced](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_09_boundcing_ball_advanced_sketch/exercise05_09_bouncing_ball_advanced_sketch.pde) — extended bouncing ball example. Added variable color fill & radius behavior.
+* [Exercise 05-10: Bouncing square travelling across edges](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_10_edges_travelling_bouncing_square_sketch/exercise05_10_edges_travelling_bouncing_square_sketch.pde) — extended square travelling example. Square is bouncing on top screen edge. TODO: complete task — rectangle should bouncing on all edges.
