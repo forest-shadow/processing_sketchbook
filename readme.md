@@ -58,3 +58,8 @@
 * [Exercise 05-08: Move circle on mouse button pressed](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_08_move_circle_on_mouse_button_pressed_sketch/exercise05_08_move_circle_on_mouse_button_pressed_sketch.pde) — circle moving from left to right edge when mouse button is pressed.
 * [Exercise 05-09: Bouncing ball advanced](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_09_boundcing_ball_advanced_sketch/exercise05_09_bouncing_ball_advanced_sketch.pde) — extended bouncing ball example. Added variable color fill & radius behavior.
 * [Exercise 05-10: Bouncing square travelling across edges](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_10_edges_travelling_bouncing_square_sketch/exercise05_10_edges_travelling_bouncing_square_sketch.pde) — extended square travelling example. Square is bouncing on top screen edge. TODO: complete task — rectangle should bouncing on all edges.
+
+## [Chapter 06: Loops]()
+### Examples:
+* [Example 06-03: Drawing lines with `while` loop]()
+### Exercises:
