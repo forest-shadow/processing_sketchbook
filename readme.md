@@ -61,5 +61,6 @@
 
 ## [Chapter 06: Loops]()
 ### Examples:
-* [Example 06-03: Drawing lines with `while` loop]()
+* [Example 06-03: Drawing lines with `while` loop]() — drawing short vertical lines in loop.
 ### Exercises:
+* [Exercise 06-01: Drawing horizontal lines grid]()
