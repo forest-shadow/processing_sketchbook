@@ -63,6 +63,7 @@
 ### Examples:
 * [Example 06-03: Drawing lines with `while` loop]() — drawing short vertical lines in loop.
 * [Example 06-08: Drawing one line at time]()
+* [Example 06-09: Interactive fill rectangles loop]() — interactively redraw rectangles with variable fill color in `while` loop.
 ### Exercises:
 * [Exercise 06-01: Drawing horizontal lines grid]()
 * [Exercise 06-01: Drawing circles loop]() — drawing circles loop from most wide to most narrow. Color fill calculated programmatically based on circle's number: the narrowest circle is the most dark one. Added circle number threshold variable.
