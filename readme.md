@@ -59,12 +59,12 @@
 * [Exercise 05-09: Bouncing ball advanced](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_09_boundcing_ball_advanced_sketch/exercise05_09_bouncing_ball_advanced_sketch.pde) — extended bouncing ball example. Added variable color fill & radius behavior.
 * [Exercise 05-10: Bouncing square travelling across edges](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter05-conditionals/exercise05_10_edges_travelling_bouncing_square_sketch/exercise05_10_edges_travelling_bouncing_square_sketch.pde) — extended square travelling example. Square is bouncing on top screen edge. TODO: complete task — rectangle should bouncing on all edges.
 
-## [Chapter 06: Loops]()
+## [Chapter 06: Loops](https://github.com/forest-shadow/processing_sketchbook/tree/main/chapter06-loops)
 ### Examples:
-* [Example 06-03: Drawing lines with `while` loop]() — drawing short vertical lines in loop.
-* [Example 06-08: Drawing one line at time]()
-* [Example 06-09: Interactive fill rectangles loop]() — interactively redraw rectangles with variable fill color in `while` loop.
+* [Example 06-03: Drawing lines with `while` loop](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/example06_03_while_loop_lines_sketch/example06_03_while_loop_lines_sketch.pde) — drawing short vertical lines in loop.
+* [Example 06-08: Drawing one line at time](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/example06_08_draw_one_line_at_time_sketch/example06_08_draw_one_line_at_time_sketch.pde)
+* [Example 06-09: Interactive fill rectangles loop](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/example06_09_interactive_colored_rectangles_loop_sketch/example06_09_interactive_colored_rectangles_loop_sketch.pde) — interactively redraw rectangles with variable fill color in `while` loop.
 ### Exercises:
-* [Exercise 06-01: Drawing horizontal lines grid]()
-* [Exercise 06-01: Drawing circles loop]() — drawing circles loop from most wide to most narrow. Color fill calculated programmatically based on circle's number: the narrowest circle is the most dark one. Added circle number threshold variable.
-* [Exercise 06-08: Random colored rectangle grid loop]() — drawing grid of randomly colored rectangles in the `for` loop.
+* [Exercise 06-01: Drawing horizontal lines grid](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/exercise06_01_growing_circles_loop_sketch/exercise06_01_growing_circles_loop_sketch.pde)
+* [Exercise 06-01: Drawing circles loop](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/exercise06_01_horizontal_lines_loop_sketch/exercise06_01_horizontal_lines_loop_sketch.pde) — drawing circles loop from most wide to most narrow. Color fill calculated programmatically based on circle's number: the narrowest circle is the most dark one. Added circle number threshold variable.
+* [Exercise 06-08: Random colored rectangle grid loop](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/exercise06_08_random_color_loop_grid_sketch/exercise06_08_random_color_loop_grid_sketch.pde) — drawing grid of randomly colored rectangles in the `for` loop.
