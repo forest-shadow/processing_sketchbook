@@ -67,3 +67,4 @@
 ### Exercises:
 * [Exercise 06-01: Drawing horizontal lines grid]()
 * [Exercise 06-01: Drawing circles loop]() — drawing circles loop from most wide to most narrow. Color fill calculated programmatically based on circle's number: the narrowest circle is the most dark one. Added circle number threshold variable.
+* [Exercise 06-08: Random colored rectangle grid loop]() — drawing grid of randomly colored rectangles in the `for` loop.
