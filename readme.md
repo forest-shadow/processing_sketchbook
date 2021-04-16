@@ -78,7 +78,7 @@
 * [Example 08-01: A Car class and a Car object]() — demo of class utilization.
 * [Example 08-02: Two Car objects sketch]() — two car blocks moving along.
 ### Exercises:
-* [Exercise 0-0: ]() — .
+* [Exercise 08-05: Two bouncing balls]() — two bouncing balls with common class.
 
 ## [Chapter 0: ]()
 ### Examples:
