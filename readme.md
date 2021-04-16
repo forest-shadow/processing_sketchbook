@@ -72,8 +72,6 @@
 ## [Chapter 07: Functions]()
 ### Examples:
 * [Example 07-06: Drawing bouncing car with fns]() — drawing bouncing on x-axis car.
-### Exercises:
-* [Exercise 0-0: ]() — .
 
 ## [Chapter 0: ]()
 ### Examples:
