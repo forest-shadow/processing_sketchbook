@@ -69,9 +69,9 @@
 * [Exercise 06-01: Drawing circles loop](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/exercise06_01_horizontal_lines_loop_sketch/exercise06_01_horizontal_lines_loop_sketch.pde) — drawing circles loop from most wide to most narrow. Color fill calculated programmatically based on circle's number: the narrowest circle is the most dark one. Added circle number threshold variable.
 * [Exercise 06-08: Random colored rectangle grid loop](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter06-loops/exercise06_08_random_color_loop_grid_sketch/exercise06_08_random_color_loop_grid_sketch.pde) — drawing grid of randomly colored rectangles in the `for` loop.
 
-## [Chapter 07: Functions]()
+## [Chapter 07: Functions](https://github.com/forest-shadow/processing_sketchbook/tree/main/chapter07-functions)
 ### Examples:
-* [Example 07-06: Drawing bouncing car with fns]() — drawing bouncing on x-axis car.
+* [Example 07-06: Drawing bouncing car with fns](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter07-functions/exercise07_06_bouncing_car_with_fns_sketch/exercise07_06_bouncing_car_with_fns_sketch.pde) — drawing bouncing on x-axis car.
 
 ## [Chapter 0: ]()
 ### Examples:
