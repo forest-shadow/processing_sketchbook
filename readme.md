@@ -76,6 +76,7 @@
 ## [Chapter 08: Objects]()
 ### Examples:
 * [Example 08-01: A Car class and a Car object]() — demo of class utilization.
+* [Example 08-02: Two Car objects sketch]() — two car blocks moving along.
 ### Exercises:
 * [Exercise 0-0: ]() — .
 
