@@ -73,6 +73,12 @@
 ### Examples:
 * [Example 07-06: Drawing bouncing car with fns](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter07-functions/exercise07_06_bouncing_car_with_fns_sketch/exercise07_06_bouncing_car_with_fns_sketch.pde) — drawing bouncing on x-axis car.
 
+## [Chapter 08: Objects]()
+### Examples:
+* [Example 08-01: A Car class and a Car object]() — demo of class utilization.
+### Exercises:
+* [Exercise 0-0: ]() — .
+
 ## [Chapter 0: ]()
 ### Examples:
 * [Example 0-0: ]() — .
