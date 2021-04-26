@@ -73,12 +73,12 @@
 ### Examples:
 * [Example 07-06: Drawing bouncing car with fns](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter07-functions/exercise07_06_bouncing_car_with_fns_sketch/exercise07_06_bouncing_car_with_fns_sketch.pde) — drawing bouncing on x-axis car.
 
-## [Chapter 08: Objects]()
+## [Chapter 08: Objects](https://github.com/forest-shadow/processing_sketchbook/tree/main/chapter08-objects)
 ### Examples:
-* [Example 08-01: A Car class and a Car object]() — demo of class utilization.
-* [Example 08-02: Two Car objects sketch]() — two car blocks moving along.
+* [Example 08-01: A Car class and a Car object](https://github.com/forest-shadow/processing_sketchbook/tree/main/chapter08-objects/example08_01_Car_class_and_object_sketch) — demo of class utilization. Class in separate file utilization.
+* [Example 08-02: Two Car objects sketch](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter08-objects/example08_02_two_car_objects_sketch/example08_02_two_car_objects_sketch.pde) — two car blocks moving along.
 ### Exercises:
-* [Exercise 08-05: Two bouncing balls]() — two bouncing balls with common class.
+* [Exercise 08-05: Two bouncing balls](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter08-objects/exercise08_05_gravity_balls_with_classes_sketch/exercise08_05_gravity_balls_with_classes_sketch.pde) — two bouncing balls with common class.
 
 ## [Chapter 0: ]()
 ### Examples:
