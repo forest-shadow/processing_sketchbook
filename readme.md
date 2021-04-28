@@ -80,6 +80,12 @@
 ### Exercises:
 * [Exercise 08-05: Two bouncing balls](https://github.com/forest-shadow/processing_sketchbook/blob/main/chapter08-objects/exercise08_05_gravity_balls_with_classes_sketch/exercise08_05_gravity_balls_with_classes_sketch.pde) — two bouncing balls with common class.
 
+## [Chapter 09: Arrays]()
+### Examples:
+* [Example 09-08: A snake following the mouse]() — store current mouse location's coords in two arrays. On each draw shifting elements of those arrays, add current location to the and and draw ellipses based on coords in two arrays and current element's count as size of ellipse.
+### Exercises:
+* [Exercise 0-0: ]() — .
+
 ## [Chapter 0: ]()
 ### Examples:
 * [Example 0-0: ]() — .
