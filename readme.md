@@ -83,6 +83,9 @@
 ## [Chapter 09: Arrays]()
 ### Examples:
 * [Example 09-08: A snake following the mouse]() — store current mouse location's coords in two arrays. On each draw shifting elements of those arrays, add current location to the and and draw ellipses based on coords in two arrays and current element's count as size of ellipse.
+* [Exercise 09-09: An Array of Car objects]() — drawing 100 instances of Car class.
+* [Exercise 0-0: ]() — .
+* [Exercise 0-0: ]() — .
 ### Exercises:
 * [Exercise 09-01: OOP snake following the mouse]() — a snake following the mouse in OOP style.
 
